@@ -1,2 +1,2 @@
 # dedication-page-for-musicians
-The is a practice repo for designing.
+This is a practice repo for designing.
